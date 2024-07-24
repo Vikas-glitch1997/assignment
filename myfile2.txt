@@ -1,3 +1,2 @@
 hi this is my first commit in myfile2
 this is my secound commit
-this is my thrid commit
